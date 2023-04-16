@@ -1,0 +1,15 @@
+C:\Users\tkorn\source\repos\Blog\Blog.Application\bin\Debug\net6.0\Blog.Application.deps.json
+C:\Users\tkorn\source\repos\Blog\Blog.Application\bin\Debug\net6.0\Blog.Application.dll
+C:\Users\tkorn\source\repos\Blog\Blog.Application\bin\Debug\net6.0\Blog.Application.pdb
+C:\Users\tkorn\source\repos\Blog\Blog.Application\bin\Debug\net6.0\Blog.Model.dll
+C:\Users\tkorn\source\repos\Blog\Blog.Application\bin\Debug\net6.0\Blog.Model.pdb
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.csproj.AssemblyReference.cache
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.AssemblyInfoInputs.cache
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.AssemblyInfo.cs
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.csproj.CoreCompileInputs.cache
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.csproj.CopyComplete
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.dll
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\refint\Blog.Application.dll
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\Blog.Application.pdb
+C:\Users\tkorn\source\repos\Blog\Blog.Application\obj\Debug\net6.0\ref\Blog.Application.dll
